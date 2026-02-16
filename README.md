@@ -1,5 +1,7 @@
 # WADSNIPE
 
+wadsnipe runs on python, u should prolly get it first
+
 hi, ty for testing wadsnipe, here is some info before u start:
 1. wadsnipe is obfuscated (encrypted) just to protect the code
 2. wadsnipe requires your discord token so that it can scan thru multliple channels in the app while u go about your day, so it does not need to stay open nor on the channel you want to snipe in
