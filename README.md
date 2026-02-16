@@ -1,6 +1,6 @@
 # WADSNIPE
 
-> hi, ty for testing wadsnipe, here is some info before u start:
+hi, ty for testing wadsnipe, here is some info before u start:
 > wadsnipe is obfuscated (encrypted) just to protect the code
 > wadsnipe requires your discord token so that it can scan thru multliple channels in the app while u go about your day, so it does not need to stay open nor on the channel you want to snipe in
 > wadsnipe does not save any data entered, any data entered is saved ONLY locally (on your pc)
