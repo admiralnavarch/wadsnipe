@@ -12,7 +12,7 @@ hi, ty for testing wadsnipe, here is some info before u start:
 
 how to set up wadsnipe
 1. Download python
-2. Run py `-m pip install aiohttp rich`
+2. Run `py -m pip install aiohttp rich`
 3. Open the folder
 4. Run wadsnipe.py
 5. If you have not ran wadsnipe before, it will ask you for some config settings
