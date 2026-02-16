@@ -11,8 +11,10 @@ hi, ty for testing wadsnipe, here is some info before u start:
 6. to change the sound that plays, create a new mp3 file in the folder, name it sound, and delete the old one
 
 how to set up wadsnipe
-1. Open the folder
-2. Run wadsnipe.py
-3. If you have not ran wadsnipe before, it will ask you for some config settings
-4. Enter your token
-5. Enter the IDs of the channels you want to snipe, when you are done, leave it blank and hit enter again
+1. Download python
+2. Run py `-m pip install aiohttp rich`
+3. Open the folder
+4. Run wadsnipe.py
+5. If you have not ran wadsnipe before, it will ask you for some config settings
+6. Enter your token
+7. Enter the IDs of the channels you want to snipe, when you are done, leave it blank and hit enter again
